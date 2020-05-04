@@ -93,7 +93,11 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 ### 2.3 Diagrama de Classes
 
-![Class Diagram0](https://user-images.githubusercontent.com/64055734/80416140-04871180-88aa-11ea-9f6c-399760177784.png)
+![Diagrama de Classes](https://user-images.githubusercontent.com/64055734/81008142-d153fd80-8e28-11ea-87d2-ba6037c0999f.png)
+
+### 2.5 Diagrama de Telas (Início)
+
+![DIagrama de TElas](https://user-images.githubusercontent.com/64055734/81008175-e335a080-8e28-11ea-9e69-7e3790fff2af.png)
 
 ### 2.4 Protótipo Interativo
 
