@@ -11,4 +11,6 @@
 #### Nome: João Pedro
 #### Email: juanpeterisrael@gmail.com
 
+### Trello: https://trello.com/b/uLJtlwrQ/projeto-carlos
+
 ## OBS: Todo o projeto está sendo upado e atualizado no arquivo project.md.
