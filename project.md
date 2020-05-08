@@ -91,14 +91,18 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 * Opção de gerar relatório, onde que nessa opção a administração da empresa terá como extrair e visualizar os relatórios da quantidade de compras que foram realizadas no mês, valor total faturado dentro de um período, quais produtos saíram mais dentro de um período, falta de produto em estoque, quantos pedidos de produtos para os fornecedores foram realizados, todo tipo de nota fiscal para melhorar o controle dos contadores.
 
-### 2.3 Diagrama de Classes
+### 2.3 Diagrama de Caso de Uso
 
-![Diagrama de Classes](https://user-images.githubusercontent.com/64055734/81008142-d153fd80-8e28-11ea-87d2-ba6037c0999f.png)
+![Diagrama de caso de uso - Projeto Carlos](https://user-images.githubusercontent.com/64055734/81449840-85ba9000-9157-11ea-88f1-c12fc78804b7.png)
 
-### 2.5 Diagrama de Telas (Início)
+### 2.4 Diagrama de Classes (Em construção)
+
+![Projeto - Diagrama de classe](https://user-images.githubusercontent.com/64055734/81449898-ac78c680-9157-11ea-9446-30c8182d26e6.png)
+
+### 2.5 Diagrama de Telas (Em construção)
 
 ![DIagrama de TElas](https://user-images.githubusercontent.com/64055734/81008175-e335a080-8e28-11ea-9e69-7e3790fff2af.png)
 
-### 2.4 Protótipo Interativo
+### 2.6 Protótipo Interativo
 
 https://www.figma.com/proto/jUkv5MCvoXKSSowIB5uyaa/Prot%C3%B3tipo-mercado?node-id=9%3A2&viewport=462%2C341%2C0.56033855676651&scaling=min-zoom
