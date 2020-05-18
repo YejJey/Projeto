@@ -103,6 +103,25 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 ![DIagrama de TElas](https://user-images.githubusercontent.com/64055734/81008175-e335a080-8e28-11ea-9e69-7e3790fff2af.png)
 
-### 2.6 Protótipo Interativo
+
+### 2.6 Diagrama de Atividade (Em construção)
+
+#### Diagrama de Atividade - Realizar Pedido
+
+![Diagrama de Atividade - Realizar Pedido](https://user-images.githubusercontent.com/64055734/82265101-9bd90500-993c-11ea-8a70-5baa46eb990c.png)
+
+#### Diagrama de Atividade - Pesquisa de Produtos e Pedidos
+
+![Diagrama de Atividade - Pesquisa de Produtos e Pedidos](https://user-images.githubusercontent.com/64055734/82265198-cf1b9400-993c-11ea-9619-9a1ea657282b.png)
+
+#### Diagrama de Atividade - Realizar Compras
+
+![Diagrama de Atividade - Realizar Compras](https://user-images.githubusercontent.com/64055734/82265230-e064a080-993c-11ea-9b43-2d0fcd7e3256.png)
+
+#### Diagrama de atividade - Gerar Relatórios
+
+![Diagrama de atividade - Gerar Relatórios](https://user-images.githubusercontent.com/64055734/82265242-e9ee0880-993c-11ea-9b5f-79adbae45cf1.png)
+
+### 2.7 Protótipo Interativo
 
 https://www.figma.com/proto/jUkv5MCvoXKSSowIB5uyaa/Prot%C3%B3tipo-mercado?node-id=9%3A2&viewport=462%2C341%2C0.56033855676651&scaling=min-zoom
