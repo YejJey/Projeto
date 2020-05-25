@@ -104,23 +104,37 @@ O sistema em si terá uma tela inicial que dará as opções:
 ![DIagrama de TElas](https://user-images.githubusercontent.com/64055734/81008175-e335a080-8e28-11ea-9e69-7e3790fff2af.png)
 
 
-### 2.6 Diagrama de Atividade (Em construção)
+### 2.6 Diagramas de Atividade (Em construção)
 
-#### Diagrama de Atividade - Realizar Pedido
+#### - Realizar Pedido
 
 ![Diagrama de Atividade - Realizar Pedido](https://user-images.githubusercontent.com/64055734/82265101-9bd90500-993c-11ea-8a70-5baa46eb990c.png)
 
-#### Diagrama de Atividade - Pesquisa de Produtos e Pedidos
+#### - Pesquisa de Produtos e Pedidos
 
 ![Diagrama de Atividade - Pesquisa de Produtos e Pedidos](https://user-images.githubusercontent.com/64055734/82265198-cf1b9400-993c-11ea-9619-9a1ea657282b.png)
 
-#### Diagrama de Atividade - Realizar Compras
+#### - Realizar Compras
 
-![Diagrama de Atividade - Realizar Compras](https://user-images.githubusercontent.com/64055734/82265230-e064a080-993c-11ea-9b43-2d0fcd7e3256.png)
+![Diagrama de Atividade - Realizar Compras](https://user-images.githubusercontent.com/64055734/82843444-82433a80-9eb3-11ea-843d-8c36230114a2.png)
 
-#### Diagrama de atividade - Gerar Relatórios
+#### - Gerar Relatórios
 
-![Diagrama de atividade - Gerar Relatórios](https://user-images.githubusercontent.com/64055734/82265242-e9ee0880-993c-11ea-9b5f-79adbae45cf1.png)
+![Diagrama de atividade - Gerar Relatórios](https://user-images.githubusercontent.com/64055734/82843462-8d966600-9eb3-11ea-83d0-b7298775fb58.png)
+
+### 2.7 Diagramas de Sequência (Em construção)
+
+#### - Realizar Pedido
+
+![Diagrama de Sequência - Realizar Pedido](https://user-images.githubusercontent.com/64055734/82843619-0ac1db00-9eb4-11ea-8e2a-f604c4c83097.png)
+
+#### - Pesquisar Produto
+
+![Diagrama de Sequência - Pesquisar Produto](https://user-images.githubusercontent.com/64055734/82843598-01387300-9eb4-11ea-9c1d-b11549620882.png)
+
+#### - Realizar Compras
+
+![Diagrama de Sequência - Realizar Compras](https://user-images.githubusercontent.com/64055734/82843584-f41b8400-9eb3-11ea-860c-58a8edff855f.png)
 
 ### 2.7 Protótipo Interativo
 
