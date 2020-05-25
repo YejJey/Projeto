@@ -120,7 +120,7 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 #### - Gerar Relatórios
 
-![Diagrama de atividade - Gerar Relatórios](https://user-images.githubusercontent.com/64055734/82843462-8d966600-9eb3-11ea-83d0-b7298775fb58.png)
+![Diagrama de atividade - Gerar Relatórios](https://user-images.githubusercontent.com/64055734/82845985-22519180-9ebd-11ea-80c3-be0f32a1657a.png)
 
 ### 2.7 Diagramas de Sequência (Em construção)
 
